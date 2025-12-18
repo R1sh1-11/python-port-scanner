@@ -22,7 +22,7 @@ A fast network scanner written in Python. It utilizes **multi-threading** to sca
     ```
 
 3.  **Enter Target**
-    * Enter a URL (`scanme.nmap.org`) in the target variable.
+    * Enter a URL (for example: `scanme.nmap.org`) in the target variable.
 
 ## Disclaimer
 This tool was made simply for **educational purposes only**. Do not port scan random networks unless you wanna be IP banned. 🙏
